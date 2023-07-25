@@ -1,0 +1,10 @@
+* ayah-captcha
+
+A simple interface to the API of the play-thru captcha of areYouAHuman.com
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/aarvid/ayah-captcha.git   |
+| commit  | c11b260  |
+| systems | ayah-captcha |
+|---------+-------------------------------------------|
+
